@@ -1,2 +1,1 @@
-# Projetos-DIO
-Projetos desenvolvidos na DIO
+# Projetos desenvolvidos nos cursos da DIO 
